@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 💫 About Me:
 🔭 I’m currently working on → Master’s in Computer Science & hands-on AI engineering projects<br>
 👯 I’m looking to collaborate on → open-source AI/ML projects, model optimization, or AI-mobile integration<br>
